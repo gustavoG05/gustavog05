@@ -10,4 +10,4 @@
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **gustavogiovanoni05@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavog05&label=Profile%20views&color=0e75b6&style=flat" alt="gustavog05" /> </p>
+<p align="left"><br> <img src="https://komarev.com/ghpvc/?username=gustavog05&label=Profile%20views&color=0e75b6&style=flat" alt="gustavog05" /> </p>
