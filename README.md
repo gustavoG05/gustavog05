@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **React, Next.js**
 
-- 📫 How to reach me **gustavogiovanoni05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **gustavogiovanoni05@gmail.com**
+
+
 <p align="left">
 </p>
 
