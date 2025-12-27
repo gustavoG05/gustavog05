@@ -6,6 +6,7 @@ class AboutMe extends Developer {
   area = "Fullstack-Developer";
   work = "Result Consultoria";
   local = "Brasil";
+  portfolio = "gugos.vercel.app"
 }
 
 class Skills extends Developer {
